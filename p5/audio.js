@@ -6,7 +6,7 @@ function preload(){
 
 function setup() {
  
-  createCanvas(720, 200);
+  createCanvas(400, 200);
   background(255, 0, 0);
 }
 
